@@ -26,8 +26,8 @@ If you don't select this option you will probably face some errors while install
 
 ## Fresh Installation
 
-1. Download the latest official release of #AntminerMonitor from <https://github.com/__USERNAME__/__REPONAME__/releases>
-or the latest unofficial release from <https://github.com/__USERNAME__/__REPONAME__/archive/master.zip>
+1. Download the latest official release of #AntminerMonitor from <https://github.com/valeev94a/antminer-monitor/releases>
+or the latest unofficial release from <https://github.com/valeev94a/antminer-monitor/archive/master.zip>
 2. Unzip the downloaded file in a folder of your preference
 3. Open a windows command prompt or a terminal and navigate to the folder where you unzipped the file using the `cd` command
 
